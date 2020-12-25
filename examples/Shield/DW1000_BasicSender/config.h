@@ -7,9 +7,7 @@
 //#define LILYGO_LILYPI_V1
 //#define LILYGO_WATCH_2020_V1
 //No SUPPORT!!!!
-
-// Function select
-// #define LILYGO_DW1000_MODULE
+#define LILYGO_WATCH_DRV2605
 
 #include <LilyGoWatch.h>
 

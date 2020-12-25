@@ -42,6 +42,21 @@
 - Added `GC9A01A` display driver , Suitable for T-Block round 240x240 screen
 - Added DW1000 examples <examples/Shield/DW1000_BasicSender>,<examples/Shield/DW1000Ranging_ANCHOR>,<examples/Shield/DW1000Ranging_TAG>,<examples/Shield/DW1000_BasicReceiver>,<examples/Shield/DW1000_RangingAnchor>,<examples/Shield/DW1000_RangingTag> 
 
+## (1.12.2020)
+- Added UnitTest directory, Store hardware test code
+- Release TTGO_TWatch_Library V1.4.0 version
+- Update lvgl to 7.7.2
 
+## (9.12.2020)
+- Turn on Twatch 2019 interrupt function
+- Remove warnings caused by upgrading lvgl
 
+## (10.12.2020)
+- Added DRV2605 enable for V2
+
+## (14.12.2020)
+- Fix the problem that cannot be compiled in SimpleFramework
+
+## (24.12.2020)
+- Fix <UnitTest/ScreenRotation> coordinate residue
 
